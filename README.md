@@ -4,7 +4,7 @@ This project is a custom web scraper for extracting real estate listings from [Z
 
 ---
 
-## 🚀 Features
+## Features
 
 - Cloudflare-protected scraping using a custom bypass module.
 - Extracts property data: location, price, rooms, area, orientation, garage, amenities, and more.
@@ -14,7 +14,7 @@ This project is a custom web scraper for extracting real estate listings from [Z
 
 ---
 
-## 🗂 Project Structure
+## Project Structure
 
 | File                        | Description |
 |-----------------------------|-------------|
@@ -27,7 +27,7 @@ This project is a custom web scraper for extracting real estate listings from [Z
 
 ---
 
-## 💻 Installation
+## Installation
 
 Make sure you have **Python 3.12.4+** installed.
 

@@ -1,6 +1,6 @@
-# Zonaprop Scraper
+# Marketplace Scraper
 
-This project is a custom web scraper for extracting real estate listings from [Zonaprop Argentina](https://www.zonaprop.com.ar). It collects detailed property data such as price, address, features, and amenities. It uses **DrissionPage** for browser automation and includes a **Cloudflare bypasser** to handle protection layers.
+This project is a custom web scraper for extracting real estate listings from real state marketplace. It collects detailed property data such as price, address, features, and amenities. It uses **DrissionPage** for browser automation and includes a **Cloudflare bypasser** to handle protection layers.
 
 ---
 
